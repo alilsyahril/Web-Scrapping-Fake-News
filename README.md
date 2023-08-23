@@ -7,7 +7,7 @@
 Scrapping all the political statements with their labels (true or false) from the [politifact website](https://www.politifact.com/factchecks/list/).
 
 ### Dependencies
-Some python3 libraries : BeautifulSoup, urllib, requests, pandas, and re. You can also see all the libraries in the requirements.txt file.
+Some python3 libraries : BeautifulSoup, urllib, requests, pandas, and re. You can also see all the libraries in the [requirements.txt](https://github.com/alilsyahril/Web-Scrapping-Fake-News/blob/main/requirements.txt) file.
 
 ### Results
-All results were exported to the csv file called fake_news_politifact.csv.
+All results were exported to the csv file called [fake_news_politifact.csv](https://github.com/alilsyahril/Web-Scrapping-Fake-News/blob/main/fake_news_politifact.csv).
